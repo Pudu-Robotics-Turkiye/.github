@@ -47,8 +47,12 @@ Robotlarımızın işletmenize katacağı değeri hesaplamak ve **ücretsiz demo
 * **Lokasyon:** Ankara, İstanbul / Türkiye (Tüm Türkiye'ye kurulum ve servis hizmetimiz vardır)
 * **E-posta:** info@robotlar.org
 * **Telefon:** 0850 532 6 777
+* * **Web:** [hizmetrobot.com](https://hizmetrobot.com)
+* * **Web:** [otelrobot.com](https://otelrobot.com)
+* * **Web:** [garsonrobotlar.com](https://garsonrobotlar.com)
 
-Pudu Robotics Türkiye - Pudu Türkiye Hizmet, Otel, Servis Robotları
+
+[Pudu Robotics Türkiye](https://hizmetrobot.com) - Pudu Türkiye Hizmet, Otel, Servis Robotları
 
 ---
 *Geleceği beklemeyin, onu işletmenize davet edin.*
