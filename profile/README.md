@@ -1,6 +1,6 @@
 # Pudu Robotics Türkiye | Pudu Robotics Türkiye Resmi Distribütörü
 
-**Robotlar.org**, Pudu Robotics'in Türkiye'deki en güçlü teknik ve ticari partneri olarak, işletmeleri otonom teknolojiyle dönüştürüyor. Sadece bir satıcı değil, **CTO düzeyinde teknik denetim** ve **sistem mühendisliği** vizyonuyla robotik çözümler sunan bir teknoloji merkezidir.
+**Robotlar.org**, Pudu Robotics'in Türkiye'deki en güçlü teknik ve ticari partneri olarak, işletmeleri otonom teknolojiyle dönüştürüyor. **CTO düzeyinde teknik denetim** ve **sistem mühendisliği** vizyonuyla robotik çözümler sunan bir teknoloji merkezidir.
 
 ---
 
