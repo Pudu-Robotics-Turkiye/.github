@@ -50,6 +50,10 @@ Robotlarımızın işletmenize katacağı değeri hesaplamak ve **ücretsiz demo
 * * **Web:** [hizmetrobot.com](https://hizmetrobot.com)
 * * **Web:** [otelrobot.com](https://otelrobot.com)
 * * **Web:** [garsonrobotlar.com](https://garsonrobotlar.com)
+* * **Web:** [kopekrobot.com](https://kopekrobot.com)
+* * **Web:** [devriyerobotu.com](https://devriyerobotu.com)
+
+
 
 
 [Pudu Robotics Türkiye](https://hizmetrobot.com) - Pudu Türkiye Hizmet, Otel, Servis Robotları
